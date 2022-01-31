@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.30c5c4eb.css",
-    "main.js": "/portfolio/static/js/main.6ccd5dd5.js",
+    "main.js": "/portfolio/static/js/main.24a86cb6.js",
     "static/media/Leon Dixon CV.pdf": "/portfolio/static/media/Leon Dixon CV.f9560186f516c9ee7b53.pdf",
     "static/media/fira-mono-all-400-normal.woff": "/portfolio/static/media/fira-mono-all-400-normal.86ed0d00534632efec27.woff",
     "static/media/Visual Sorting Algorithm.png": "/portfolio/static/media/Visual Sorting Algorithm.5a27ac42d67239d8d4ba.png",
@@ -13,10 +13,10 @@
     "static/media/fira-mono-greek-ext-400-normal.woff2": "/portfolio/static/media/fira-mono-greek-ext-400-normal.fed4887b3c005943b84e.woff2",
     "index.html": "/portfolio/index.html",
     "main.30c5c4eb.css.map": "/portfolio/static/css/main.30c5c4eb.css.map",
-    "main.6ccd5dd5.js.map": "/portfolio/static/js/main.6ccd5dd5.js.map"
+    "main.24a86cb6.js.map": "/portfolio/static/js/main.24a86cb6.js.map"
   },
   "entrypoints": [
     "static/css/main.30c5c4eb.css",
-    "static/js/main.6ccd5dd5.js"
+    "static/js/main.24a86cb6.js"
   ]
 }
