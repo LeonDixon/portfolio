@@ -1,5 +1,4 @@
 import React from 'react';
-import { MoonIcon, SunIcon } from "@chakra-ui/icons";
 import {
   IconButton,
 } from "@chakra-ui/react";

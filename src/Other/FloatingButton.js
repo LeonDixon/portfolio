@@ -16,7 +16,7 @@ const FloatingButton = () => {
       maxW="container.xl"
       position="fixed"
       top="20px"
-      left={["88%", "90%", "80%"]}
+      left={["88%", "88%", '90%', "80%"]}
       // 
     >
       <VStack>
