@@ -1,7 +1,7 @@
 import React from 'react';
 import BoxCard from '../Components/BoxCard';
 import visualAlgorithmImage from '../Assets/Visual Sorting Algorithm.png'
-import { Box, Text, List, ListItem, ListIcon, Heading, Image } from '@chakra-ui/react';
+import { Box, Text, Heading, Image } from '@chakra-ui/react';
 
 
 const Projects = () => {

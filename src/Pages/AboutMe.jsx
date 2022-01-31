@@ -16,21 +16,17 @@ const AboutMe = () => {
     <>
       <Box p='6'>
               <Text variant="cardText">
-                Hello! My name is Leon and I love creating visually pleasing and
-                function applications. My interest in Software Development
-                originates from gaming, I was intrigued how they were made and
-                loved the idea you could create anything you want to. 
+              Hello! My name is Leon, and I love creating visually pleasing and functional applications. My interest in Software Development originates from gaming - I was intrigued by how they were made and loved the idea you could create anything you want to. 
               </Text>
             </Box>
             <Box p='6' pt='20px'>
               <Text variant="cardText">
-                  My first interaction with Web Developement was in Unversity as I previously assumed it was boring - no idea why.
-                  The first website I made was horrendous but I quickly raised with practice I could develope visually appealing websites, and I enoyed it!
+              My first interaction with Web Development was in Unversity as I previously assumed it was boring - no idea why. The first website I made was horrendous! Quickly, I realised I could develop visually appealing websites with practice, and I enjoyed the process.
               </Text>
             </Box>
             <Box p='6' pt='20px'>
               <Text variant="cardText">
-                  The technologies which I currently use are:
+                The technologies which I currently use are:
               </Text>
               <List>
                 <ListItem>

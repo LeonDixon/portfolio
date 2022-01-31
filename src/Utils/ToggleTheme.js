@@ -1,5 +1,4 @@
 import React from "react";
-import { motion } from "framer-motion";
 import { MoonIcon, SunIcon } from "@chakra-ui/icons";
 import {
   IconButton,
