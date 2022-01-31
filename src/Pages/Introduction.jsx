@@ -61,7 +61,7 @@ const Introduction = () => {
             </MotionBox>
             <MotionBox w={['100%%', '100%', '60%']} opacity='0' initial={{y: '15px'}} animate={{ opacity: 1 ,y: 0, transition: { delay: 0.45, duration: 1 } }}>
               <Text>
-                I'm am currently working at Bet365 in the Sports Content Team, I am focused on improving the customers experience and product functionality.
+                I'm am currently working at Bet365 in the System Sports Team, I am focused on improving the customers experience and product functionality.
               </Text>
             </MotionBox>
           </Box>
