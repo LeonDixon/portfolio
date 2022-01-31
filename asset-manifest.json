@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.30c5c4eb.css",
+    "main.js": "/portfolio/static/js/main.dc152bf7.js",
+    "static/media/Leon Dixon CV.pdf": "/portfolio/static/media/Leon Dixon CV.f9560186f516c9ee7b53.pdf",
+    "static/media/fira-mono-all-400-normal.woff": "/portfolio/static/media/fira-mono-all-400-normal.86ed0d00534632efec27.woff",
+    "static/media/fira-mono-latin-400-normal.woff2": "/portfolio/static/media/fira-mono-latin-400-normal.4df5563d9c8ede1c3281.woff2",
+    "static/media/fira-mono-cyrillic-ext-400-normal.woff2": "/portfolio/static/media/fira-mono-cyrillic-ext-400-normal.9f4b3ee29e95c1c24efd.woff2",
+    "static/media/fira-mono-latin-ext-400-normal.woff2": "/portfolio/static/media/fira-mono-latin-ext-400-normal.b4378bc4a264bbf351fe.woff2",
+    "static/media/fira-mono-greek-400-normal.woff2": "/portfolio/static/media/fira-mono-greek-400-normal.63a01e1c1bc6f210cdb9.woff2",
+    "static/media/fira-mono-cyrillic-400-normal.woff2": "/portfolio/static/media/fira-mono-cyrillic-400-normal.eb779ca06a5989c48ad3.woff2",
+    "static/media/fira-mono-greek-ext-400-normal.woff2": "/portfolio/static/media/fira-mono-greek-ext-400-normal.fed4887b3c005943b84e.woff2",
+    "index.html": "/portfolio/index.html",
+    "main.30c5c4eb.css.map": "/portfolio/static/css/main.30c5c4eb.css.map",
+    "main.dc152bf7.js.map": "/portfolio/static/js/main.dc152bf7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30c5c4eb.css",
+    "static/js/main.dc152bf7.js"
+  ]
+}
