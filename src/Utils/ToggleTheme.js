@@ -12,7 +12,7 @@ const ToggleTheme = () => {
   return (
       <IconButton
         bg='transparent'
-        fontSize={["lg", 'xl', "2xl", "3xl", "4xl"]}
+        fontSize={["4xl"]}
         _hover={{ transform: "scale(1.2)" }}
         onClick={toggleColorMode}
         icon={

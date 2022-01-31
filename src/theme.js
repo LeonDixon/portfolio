@@ -26,6 +26,11 @@ const components = {
             cardTitle: (props) => ({
                 color: mode('gray.800', 'gruvbox.fg1dark')(props),
                 p: 4
+            }),
+            videoTitle: (props) => ({
+                color: mode('gray.800', 'gruvbox.fg1dark')(props),
+                p: 4,
+                fontSize: ['xl', '2xl', '3xl', '4xl', '5xl']
             })
         }
     },
