@@ -9,7 +9,7 @@ const Projects = () => {
     return (
     <>
       <Box p='6'>
-              <Heading variant='videoTitle'>
+              <Heading p='0' variant='videoTitle'>
                 Visual Sorting Algorithm
               </Heading>
               <Image 
@@ -20,13 +20,6 @@ const Projects = () => {
               >
 
               </Image>
-            </Box>
-            <Box p='6' pt='20px'>
-              <Text variant="cardText">
-                  
-              </Text>
-            </Box>
-            <Box p='6' pt='20px'>
             </Box>
       </>
       )

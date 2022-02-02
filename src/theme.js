@@ -14,11 +14,11 @@ const components = {
     Heading: {
         sizes: {
             h1: {
-                fontSize: ['3xl', '5xl', '6xl', '7xl', '9xl'],
+                fontSize: ['3xl', '5xl', '6xl', '7xl'],
                 lineHeight: 1.3
             },
             h2: {
-                fontSize: ['2xl', '4xl', '5xl', '6xl', '8xl'],
+                fontSize: ['2xl', '4xl', '5xl', '6xl'],
                 lineHeight: 1.3
             }
         },
@@ -30,7 +30,7 @@ const components = {
             videoTitle: (props) => ({
                 color: mode('gray.800', 'gruvbox.fg1dark')(props),
                 p: 4,
-                fontSize: ['xl', '2xl', '3xl', '4xl', '5xl']
+                fontSize: ['xl', '2xl', '3xl', '4xl']
             })
         }
     },
@@ -38,7 +38,7 @@ const components = {
         variants: {
             default: (props) => ({
                 boxShadow: mode('var(--chakra-shadows-xl)', 'var(--chakra-shadows-2xl)')(props),
-                p: '6',
+                p: '4',
                 rounded: 'md',
                 bg: mode('gruvbox.bg1light', 'gruvbox.bg1dark')(props),
                 mt: '20vh',
@@ -46,7 +46,7 @@ const components = {
             }),
             innerText: (props) => ({
                 boxShadow: mode('var(--chakra-shadows-lg)', 'var(--chakra-shadows-lg)')(props),
-                p: '2',
+                p: ['0', '1', '2'],
                 rounded: 'md',
                 bg: mode('gruvbox.bglight', 'gruvbox.bgdark')(props),
             })
@@ -90,7 +90,7 @@ const theme = extendTheme({
     styles: {
         global: {
             body: {
-                fontSize: ['sm', 'lg', 'xl', '2xl', '3xl'],
+                fontSize: ['sm', 'lg', 'xl', '2xl'],
                 lineHeight: 1.3
             }
         }
